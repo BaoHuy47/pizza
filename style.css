@@ -1,0 +1,60 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: bisque;
+}
+
+/* .main-page {
+    padding: 120px 5px 50px 5px;
+} */
+
+.bg-orange {
+    background-color: orange;
+}
+
+.text-orange {
+    color: orange;
+}
+
+.intro-1 {
+    background-color: lightgoldenrodyellow;
+}
+
+.intro-2 {
+    background-color: yellow;
+}
+
+.intro-3 {
+    background-color: lightsalmon;
+}
+
+.intro-4 {
+    background-color: orange;
+}
+
+.data-select {
+    background-color: orange;
+}
+
+.data-unselect {
+    background-color: PaleGoldenRod;
+}
+
+.card {
+    transition: all 0.2s ease-in-out;
+}
+
+.card:hover{
+    transform: scale(1.02);
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+
